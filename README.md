@@ -14,3 +14,4 @@ remainint set to 0.<br/>
 
 
 # 1254. [Algo] Number of Closed Islands
+[image](https://github.com/mxq7854687/LeetCode/blob/master/UNADJUSTEDNONRAW_thumb_47d.jpg)
