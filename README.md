@@ -15,3 +15,6 @@ remainint set to 0.<br/>
 
 # 1254. [Algo] Number of Closed Islands
 ![image](https://github.com/mxq7854687/LeetCode/blob/master/UNADJUSTEDNONRAW_thumb_47d.jpg)
+**Aim** count how many closed islands(surround by water "1")<br/>
+**Step1**: fill the border land("0") to water("1")
+**Step2**: count islands
